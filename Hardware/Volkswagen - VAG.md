@@ -1,2 +1,4 @@
+| Part#  | Function | First Header  | Low Data | Mid Data| High Data | Note | Credit |
+| ------------- | ------------- |  ------------- | ------------- | ------------- | ------------- |
+| 3LFS0002 | pressure sensor | 0.5V: 0 BAR |--- | 4.5V: 10 BAR | verify if it outputs that 0.5V without any pressure |sev.1337|
 
-VW fuel pressure sensor 3LFS0002: 0.5V: 0 BAR, 4.5V: 10 BAR Note: verify if it outputs that 0.5V without any pressure Credits: sev.1337
